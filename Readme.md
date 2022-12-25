@@ -6,7 +6,7 @@ You can find that there is two files `arg.py` and `interface.py` in the latest r
 
 - `arg.py`
 
-"arg" means you can use command arguments to start the game, which is more *convenient* than `interface.py`.
+"arg" means you can use command arguments to start the game, which is more ***convenient*** than `interface.py`.
 
 Before you start to play the game, you should use "-h" or "--help" to find "HELP".
 
@@ -14,7 +14,7 @@ Then check the commands, and after that you will know how to start the game.
 
 - `interface.py`
 
-"interface" means you can start the game by the interface in the game, which is more *intuitive* than `arg.py`.
+"interface" means you can start the game by the interface in the game, which is more ***intuitive*** than `arg.py`.
 
 You can follow the prompts to start the game.
 
